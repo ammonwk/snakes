@@ -905,7 +905,7 @@ def main():
                 if event.key == pygame.K_SPACE:
                     paused = not paused
                 elif event.key == pygame.K_UP:
-                    simulation_speed = max(1, simulation_speed - 1)
+                    simulation_speed = max(0, simulation_speed - 1)
                 elif event.key == pygame.K_DOWN:
                     simulation_speed = min(60, simulation_speed + 1)
                 elif event.key == pygame.K_TAB:
