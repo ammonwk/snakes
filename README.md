@@ -4,8 +4,9 @@ Watch snakes evolve in real-time. They fight, eat, reproduce, and pass on geneti
 
 <table>
   <tr>
-    <td><img src="./screenshots/snakes.png" alt="Snakes" width="400"/></td>
-    <td><img src="./screenshots/stats.png" alt="Stats" width="400"/></td>
+    <td><img src="./screenshots/snakes.png" alt="Snakes" width="300"/></td>
+    <td><img src="./screenshots/snakes2.png" alt="Snakes2" width="300"/></td>
+    <td><img src="./screenshots/stats.png" alt="Stats" width="300"/></td>
   </tr>
 </table>
 
